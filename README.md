@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <img src="https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif" alt="MasterHead" />
 </div>
 <h1 align="center">Hi 👋, I'm Ronald</h1>
