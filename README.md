@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-[![MasterHead](https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif)
+  <img src="https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif" alt="MasterHead" />
 </div>
 <h1 align="center">Hi 👋, I'm Ronald</h1>
 <h3 align="center">I am newcomer to the fields of software development and AI, and I am enthusiatic about learning</h3>
