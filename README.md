@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldfwj&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldfwj" /> </p>
 
-- 🌱 I’m currently learning **Angular, Bootstrap, nodeJS, Express, EJS**
+- 🌱 I’m currently learning **Angular, Bootstrap, nodeJS, Express, EJS, Typescript**
 
 - 📫 How to reach me **ronaldfoowj65@gmail.com**
 
