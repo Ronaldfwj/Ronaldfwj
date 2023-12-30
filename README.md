@@ -2,12 +2,12 @@
   <img src="https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif" alt="MasterHead" />
 </div>
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">I am a newcomer to the fields of software development and AI, and I am enthusiastic about learning</h3>
+<h3 align="center">Aspiring junior software developer with a passion for AI, IoT and software development. Junior in the coding world, eager to learn and contribute.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldfwj&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldfwj" /> </p>
 
-- 🌱 I’m currently learning **Angular, Bootstrap, nodeJS, Express, EJS, Typescript**
+- 🌱 I’m currently learning **Bootstrap, nodeJS, Typescript**
 
 - 📫 How to reach me **ronaldfoowj65@gmail.com**
 
