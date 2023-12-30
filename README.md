@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldfwj&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldfwj" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap, nodeJS, Typescript**
+- 🌱 I’m currently learning **Bootstrap, nodeJS, Typescript, Javascript**
 
 - 📫 How to reach me **ronaldfoowj65@gmail.com**
 
