@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ronald.<br><br>Aspiring junior software developer with a passion for AI, IoT and software development. Junior in the coding world, eager to learn and contribute.
+Hi 👋, I'm Ronald.<br><br>Aspiring software developer/AI with a passion for AI, IoT and software development. Junior in the coding world, eager to learn and contribute.
 
 
 ## 🌐 Socials:
